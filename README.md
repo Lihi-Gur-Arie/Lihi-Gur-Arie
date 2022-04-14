@@ -10,7 +10,7 @@ Data Scientist with passion to Machine Learning. Research is my home field, and 
 
 ## Find me around the web 🌎
 
-- My Medium account <a href="https://medium.com/@lihigurarie"> Medium</a> 🏓
+- My Medium profile <a href="https://medium.com/@lihigurarie"> Medium</a> 🏓
 - My Linkedin <a href="https://www.linkedin.com/in/lihi-gur-arie/">LinkedIn</a> 💼
 
 
