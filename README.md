@@ -21,6 +21,20 @@ and I enjoy sharing my experiences on my <a href="https://medium.com/@lihigurari
 Check out a couple of my recent posts below!
 
 
+---
+<img 
+  src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*jO4p-FA6-FjbuAtlubLBow.png" 
+  alt="Chat with your images article cover" 
+  align="right" 
+  width="150" 
+/>
+#### Extracting Structured Vehicle Data from Images
+
+
+Build an Automated Vehicle Documentation System that Extracts Structured Information from Images, using OpenAI API, LangChain and Pydantic.
+
+- ⭐ [Tutorial](https://towardsdatascience.com/extracting-structured-vehicle-data-from-images-794128aa8696?source=friends_link&sk=a6e9062d3b11be6b3d39b090cd8dec93)
+- ⭐ [Code](https://gist.github.com/Lihi-Gur-Arie/5a317ce5db413a586fa56583541ae015#file-gpt4_langchain_structured_output-lihi_gur_arie-ipynb)
 
 
 ---
